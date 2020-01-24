@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": "publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/72a3e263-c459-49df-a6b4-1fd5f563a245/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/SightWordsRock"
+}

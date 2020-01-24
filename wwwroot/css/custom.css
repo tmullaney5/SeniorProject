@@ -1,0 +1,348 @@
+/*************** CUSTOM FONTS ***************/
+
+@font-face {
+  font-family: 'Century Gothic Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Century Gothic Regular'), url('fonts/GOTHIC.woff') format('woff');
+}
+  
+  
+@font-face {
+  font-family: 'Century Gothic Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Century Gothic Italic'), url('fonts/GOTHICI.woff') format('woff');
+}
+  
+  
+@font-face {
+  font-family: 'Century Gothic Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Century Gothic Bold'), url('fonts/GOTHICB.woff') format('woff');
+}
+  
+  
+@font-face {
+  font-family: 'Century Gothic Bold Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Century Gothic Bold Italic'), url('fonts/GOTHICBI.woff') format('woff');
+}
+/*************** CUSTOM STYLES ***************/
+html {
+ height: 100%;
+ font-family: 'Century Gothic Regular';
+ overflow: hidden;
+}
+
+body {
+height:100%;
+overflow: auto;
+font-family: 'Century Gothic Regular';
+}
+
+main {
+  height: 100%;
+  min-height: 100vh;
+}
+
+#cover {
+  background: url(../img/background_green_poka.png);
+  background-repeat: repeat;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.cover1 {
+  background: url(../img/background_green_poka.png);
+  background-repeat: repeat;
+  height: 100%;
+}
+
+.cover1HeightAuto {
+  background: url(../img/background_green_poka.png);
+  background-repeat: repeat;
+  height: auto;
+}
+
+.cover2 {
+  background: url(../img/background_orange_poka.png);
+  background-repeat: repeat;
+  height: 100%;
+  z-index: -1;
+}
+
+.cover2HeightAuto {
+  background: url(../img/background_orange_poka.png);
+  background-repeat: repeat;
+  min-height: 100%;
+  height: auto;
+  z-index: -1;
+}
+
+#loginStyle {
+  background: #222;
+  text-align: center;
+  display: flex;
+  padding-top: 3%;
+  min-height: 100vh;
+}
+
+#header {
+  background: #222;
+  padding: 1% 0 0 1%;
+}
+
+#landingHeader {
+  margin: 10px;
+  color: white;
+  display: inline-block;
+}
+
+#cover h1#title {
+  font-size: 38px;
+}
+
+#cover-caption {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.form-container {
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px #000;
+}
+
+.modules_row {
+  margin: 0px 10px 0px 10px;
+}
+
+div.card {
+  margin-bottom: 10px;
+}
+
+.fullHeight {
+  height: 100%;
+  min-height: 100vh;
+}
+
+#landingLogo{
+  max-width: 30%;
+  height: auto;
+}
+
+#headerLogo{
+  max-width: 6%;
+  height: auto;
+  padding-bottom: 10px;
+}
+
+#headerTitle{
+  color: white;
+  padding-left: 5px;
+  font-size: 30px;
+  font-family: 'Century Gothic Bold';
+  text-shadow: 1px 1px 0 #297E89,
+    -1px 1px 0 #297E89,
+    1px -1px 0 #297E89,
+    -1px -1px 0 #297E89,
+    0px 1px 0 #297E89,
+    0px -1px 0 #297E89,
+    -1px 0px 0 #297E89,
+    1px 0px 0 #297E89,
+    2px 2px 0 #297E89,
+    -2px 2px 0 #297E89,
+    2px -2px 0 #297E89,
+    -2px -2px 0 #297E89,
+    0px 2px 0 #297E89,
+    0px -2px 0 #297E89,
+    -2px 0px 0 #297E89,
+    2px 0px 0 #297E89,
+    1px 2px 0 #297E89,
+    -1px 2px 0 #297E89,
+    1px -2px 0 #297E89,
+    -1px -2px 0 #297E89,
+    2px 1px 0 #297E89,
+    -2px 1px 0 #297E89,
+    2px -1px 0 #297E89,
+    -2px -1px 0 #297E89;
+}
+
+#headerTitleStudent{
+  padding-left: 5px;
+  font-size: 30px;
+  font-family: 'Century Gothic Bold';
+  text-shadow: 1px 1px 0 #F9BA45,
+    -1px 1px 0 #F9BA45,
+    1px -1px 0 #F9BA45,
+    -1px -1px 0 #F9BA45,
+    0px 1px 0 #F9BA45,
+    0px -1px 0 #F9BA45,
+    -1px 0px 0 #F9BA45,
+    1px 0px 0 #F9BA45,
+    2px 2px 0 #F9BA45,
+    -2px 2px 0 #F9BA45,
+    2px -2px 0 #F9BA45,
+    -2px -2px 0 #F9BA45,
+    0px 2px 0 #F9BA45,
+    0px -2px 0 #F9BA45,
+    -2px 0px 0 #F9BA45,
+    2px 0px 0 #F9BA45,
+    1px 2px 0 #F9BA45,
+    -1px 2px 0 #F9BA45,
+    1px -2px 0 #F9BA45,
+    -1px -2px 0 #F9BA45,
+    2px 1px 0 #F9BA45,
+    -2px 1px 0 #F9BA45,
+    2px -1px 0 #F9BA45,
+    -2px -1px 0 #F9BA45;
+}
+
+#headerRightAlign{
+  float: right;
+}
+
+#landingMain {
+  position: relative;
+  top: 40%;
+  transform: translateY(-50%);
+  text-align: center;
+}
+
+#landingMain a {
+  color: white;
+  text-decoration: none;
+}
+
+.teal {
+  color: #297E89;
+  font-family: 'Century Gothic Bold';
+}
+
+.orange {
+  color: #F9BA45;
+  font-family: 'Century Gothic Bold';
+}
+
+.textShadowOrange {
+  font-family: 'Century Gothic Bold';
+  text-shadow: 1px 1px 0 #F9BA45,
+    -1px 1px 0 #F9BA45,
+    1px -1px 0 #F9BA45,
+    -1px -1px 0 #F9BA45,
+    0px 1px 0 #F9BA45,
+    0px -1px 0 #F9BA45,
+    -1px 0px 0 #F9BA45,
+    1px 0px 0 #F9BA45,
+    2px 2px 0 #F9BA45,
+    -2px 2px 0 #F9BA45,
+    2px -2px 0 #F9BA45,
+    -2px -2px 0 #F9BA45,
+    0px 2px 0 #F9BA45,
+    0px -2px 0 #F9BA45,
+    -2px 0px 0 #F9BA45,
+    2px 0px 0 #F9BA45,
+    1px 2px 0 #F9BA45,
+    -1px 2px 0 #F9BA45,
+    1px -2px 0 #F9BA45,
+    -1px -2px 0 #F9BA45,
+    2px 1px 0 #F9BA45,
+    -2px 1px 0 #F9BA45,
+    2px -1px 0 #F9BA45,
+    -2px -1px 0 #F9BA45;
+}
+
+.shadowWhite {
+  text-shadow: 1px 1px 0 #FFF,
+    -1px 1px 0 #FFF,
+    1px -1px 0 #FFF,
+    -1px -1px 0 #FFF,
+    0px 1px 0 #FFF,
+    0px -1px 0 #FFF,
+    -1px 0px 0 #FFF,
+    1px 0px 0 #FFF,
+    2px 2px 0 #FFF,
+    -2px 2px 0 #FFF,
+    2px -2px 0 #FFF,
+    -2px -2px 0 #FFF,
+    0px 2px 0 #FFF,
+    0px -2px 0 #FFF,
+    -2px 0px 0 #FFF,
+    2px 0px 0 #FFF,
+    1px 2px 0 #FFF,
+    -1px 2px 0 #FFF,
+    1px -2px 0 #FFF,
+    -1px -2px 0 #FFF,
+    2px 1px 0 #FFF,
+    -2px 1px 0 #FFF,
+    2px -1px 0 #FFF,
+    -2px -1px 0 #FFF;
+}
+
+.textShadowTeal{
+  color: white;
+  font-family: 'Century Gothic Bold';
+  text-shadow: 1px 1px 0 #297E89,
+    -1px 1px 0 #297E89,
+    1px -1px 0 #297e89,
+    -1px -1px 0 #297E89,
+    0px 1px 0 #297E89,
+    0px -1px 0 #297E89,
+    -1px 0px 0 #297E89,
+    1px 0px 0 #297E89,
+    2px 2px 0 #297E89,
+    -2px 2px 0 #297E89,
+    2px -2px 0 #297E89,
+    -2px -2px 0 #297E89,
+    0px 2px 0 #297E89,
+    0px -2px 0 #297E89,
+    -2px 0px 0 #297E89,
+    2px 0px 0 #297E89,
+    1px 2px 0 #297E89,
+    -1px 2px 0 #297E89,
+    1px -2px 0 #297E89,
+    -1px -2px 0 #297E89,
+    2px 1px 0 #297E89,
+    -2px 1px 0 #297E89,
+    2px -1px 0 #297E89,
+    -2px -1px 0 #297E89;
+}
+
+/* 1px */
+.textShadowTeal1 {
+  color: white;
+  font-family: 'Century Gothic Bold';
+  text-shadow: 
+        -1px -1px 0px #297E89,
+         0px -1px 0px #297E89,
+         1px -1px 0px #297E89,
+        -1px  0px 0px #297E89,
+         1px  0px 0px #297E89,
+        -1px  1px 0px #297E89,
+         0px  1px 0px #297E89,
+         1px  1px 0px #297E89;
+}
+
+/* 1px */
+.textShadowOrange1 {
+  color: white;
+  font-family: 'Century Gothic Bold';
+  text-shadow: 
+        -1px -1px 0px #F9BA45,
+         0px -1px 0px #F9BA45,
+         1px -1px 0px #F9BA45,
+        -1px  0px 0px #F9BA45,
+         1px  0px 0px #F9BA45,
+        -1px  1px 0px #F9BA45,
+         0px  1px 0px #F9BA45,
+         1px  1px 0px #F9BA45;
+}

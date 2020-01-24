@@ -1,0 +1,674 @@
+C:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.deps.json
+C:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.json
+C:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.dev.json
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.dll
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.pdb
+C:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.dll
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csprojAssemblyReference.cache
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CoreCompileInputs.cache
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cache
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cs
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfoInputs.cache
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfo.cs
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.input.cache
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.output.cache
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorCoreGenerate.cache
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cache
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cs
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.dll
+c:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.pdb
+C:/Users/mullanet/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CopyComplete
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.deps.json
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.json
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.dev.json
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.dll
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csprojAssemblyReference.cache
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CoreCompileInputs.cache
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cache
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cs
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfoInputs.cache
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfo.cs
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.input.cache
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.output.cache
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorCoreGenerate.cache
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cache
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cs
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/darrenwong/Desktop/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CopyComplete
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.deps.json
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.json
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.dev.json
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.dll
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csprojAssemblyReference.cache
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CoreCompileInputs.cache
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cache
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cs
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfoInputs.cache
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfo.cs
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.input.cache
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.output.cache
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorCoreGenerate.cache
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cache
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cs
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CopyComplete
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentLogin.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/niorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStages.g.cshtml.cs
+<<<<<<< HEAD
+=======
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.deps.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.dev.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.dll
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csprojAssemblyReference.cache
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cache
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfoInputs.cache
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfo.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.input.cache
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.output.cache
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorCoreGenerate.cache
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentLogin.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStages.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherLogin.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cache
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CopyComplete
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/CreateAccount.cshtml.g.cs
+>>>>>>> c012ad5faebcfbd15c80bc34872747c1b36832c6
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.deps.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.dev.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csprojAssemblyReference.cache
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfoInputs.cache
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfo.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.input.cache
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.output.cache
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorCoreGenerate.cache
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentLogin.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStages.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherLogin.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cache
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CopyComplete
+C:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.deps.json
+C:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.json
+C:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.dev.json
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.dll
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.pdb
+C:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.dll
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csprojAssemblyReference.cache
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CoreCompileInputs.cache
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cache
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cs
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfoInputs.cache
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfo.cs
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.input.cache
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.output.cache
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorCoreGenerate.cache
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentLogin.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStages.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherLogin.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cache
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cs
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.dll
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.pdb
+C:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CopyComplete
+c:/Users/mullanet/Documents/CS472/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/CreateAccount.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.deps.json
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.json
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.dev.json
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.dll
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csprojAssemblyReference.cache
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CoreCompileInputs.cache
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cache
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfoInputs.cache
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfo.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.input.cache
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.output.cache
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorCoreGenerate.cache
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentDashboard.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentLogin.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStages.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherLogin.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cache
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CopyComplete
+>>>>>>> dashboards
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/CreateAccount.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.deps.json
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.json
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.dev.json
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.dll
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csprojAssemblyReference.cache
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CoreCompileInputs.cache
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cache
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfoInputs.cache
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfo.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.input.cache
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.output.cache
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorCoreGenerate.cache
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentDashboard.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentLogin.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStages.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/CreateAccount.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherLogin.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cache
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CopyComplete
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherDashboard.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherDashboard.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/StudentStats.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/StudentStats.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ManageAccount.g.cshtml.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/r08mbp/Documents/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.deps.json
+/Users/r08mbp/Documents/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.json
+/Users/r08mbp/Documents/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.dev.json
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/r08mbp/Documents/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.dll
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csprojAssemblyReference.cache
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cache
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfoInputs.cache
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfo.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.input.cache
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.output.cache
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorCoreGenerate.cache
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentDashboard.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentLogin.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStages.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/CreateAccount.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ManageAccount.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/StudentStats.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherDashboard.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherLogin.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cache
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019Team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/r08mbp/Documents/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CopyComplete
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ManageAccount.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/AddStudents.g.cshtml.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentDashboard.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ManageAccount.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/StudentStats.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherDashboard.cshtml.g.cs
+>>>>>>> 2f5406bdb05de48a432f9f64af34f11d9deaecc6
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/CreateAccount.g.cshtml.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/web.config
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/publish/web.config
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/publish/appsettings.Development.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/publish/appsettings.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/appsettings.Development.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/appsettings.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/SightWordsProject.deps.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/SightWordsProject.runtimeconfig.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/publish/SightWordsProject.deps.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/publish/SightWordsProject.runtimeconfig.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/CreateAccount.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/AddStudents.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStage1.cshtml.g.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStage1.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ViewClass.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/CreateAccount.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStage1.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/AddStudents.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ViewClass.g.cshtml.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/web.config
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/web.config
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/web.config
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/appsettings.Development.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/appsettings.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/appsettings.Development.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/appsettings.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/appsettings.Development.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/appsettings.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/appsettings.Development.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/appsettings.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/SightWordsProject.deps.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/SightWordsProject.runtimeconfig.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/SightWordsProject.deps.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/SightWordsProject.runtimeconfig.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/SightWordsProject.deps.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/SightWordsProject.runtimeconfig.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.deps.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.dev.json
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.dll
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.pdb
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.dll
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csprojAssemblyReference.cache
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cache
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfoInputs.cache
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfo.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.input.cache
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.output.cache
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorCoreGenerate.cache
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/CreateAccount.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentDashboard.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentLogin.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStage1.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStages.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/AddStudents.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/CreateAccount.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ManageAccount.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/StudentStats.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherDashboard.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherLogin.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ViewClass.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cache
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cs
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.dll
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.pdb
+C:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CopyComplete
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/web.config
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/web.config
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/appsettings.Development.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/appsettings.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/appsettings.Development.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/appsettings.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/SightWordsProject.deps.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/SightWordsProject.runtimeconfig.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/SightWordsProject.deps.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/SightWordsProject.runtimeconfig.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/web.config
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/appsettings.Development.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/appsettings.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/SightWordsProject.deps.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/SightWordsProject.runtimeconfig.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/CreateAccount.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/Game/Stage1.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentDashboard.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStage1.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/AddStudents.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/CreateAccount.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ManageAccount.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/StudentStats.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherDashboard.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ViewClass.cshtml.g.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/Modules.g.cshtml.cs
+>>>>>>> master
+c:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/Game/Stage1.cshtml.g.cs
+c:/Users/wongd/Documents/Bitbucket/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/Modules.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/web.config
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/web.config
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/publish/web.config
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/publish/appsettings.Development.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/publish/appsettings.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/appsettings.Development.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/appsettings.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/appsettings.Development.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/appsettings.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/SightWordsProject.deps.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/SightWordsProject.runtimeconfig.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/SightWordsProject.deps.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/SightWordsProject.runtimeconfig.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/publish/SightWordsProject.deps.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/publish/SightWordsProject.runtimeconfig.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.deps.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.dev.json
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.dll
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csprojAssemblyReference.cache
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cache
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfoInputs.cache
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfo.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.input.cache
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.output.cache
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorCoreGenerate.cache
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/CreateAccount.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/Game/Stage1.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentDashboard.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentLogin.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStage1.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStages.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/AddStudents.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/CreateAccount.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ManageAccount.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/Modules.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/StudentStats.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherDashboard.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherLogin.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ViewClass.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cache
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cs
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/r08mbp/Documents/SeniorProjectFall2019/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CopyComplete
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/web.config
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/appsettings.Development.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/appsettings.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/SightWordsProject.deps.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/SightWordsProject.runtimeconfig.json
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/Game/Stage1.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/Modules.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ViewClass.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ForgotPassword.cshtml.g.cs
+/Users/Nathan/Documents/School/Fall Semester '19/CS 472/sight words repo/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/ForgotPassword.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/web 2.config
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/web.config
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/web 2.config
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/web 2.config
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/appsettings.Development.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/appsettings.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/SightWordsProject.deps.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/SightWordsProject.runtimeconfig.json
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/ForgotPassword.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/Game/Stage2.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ForgotPassword.cshtml.g.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/Modules.cshtml.g.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/ForgotPassword.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/Game/Stage1.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ForgotPassword.g.cshtml.cs
+/Users/darrenwong/Desktop/repos/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/Modules.g.cshtml.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/web 2.config
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/web.config
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/web 2.config
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/web.config
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/web 2.config
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/web.config
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/web.config
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/appsettings.Development.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/appsettings.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/appsettings.Development.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/appsettings.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/appsettings.Development.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/appsettings.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/appsettings.Development.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/appsettings.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/SightWordsProject.deps.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/SightWordsProject.runtimeconfig.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/SightWordsProject.deps.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/SightWordsProject.runtimeconfig.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/SightWordsProject.deps.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/SightWordsProject.runtimeconfig.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/SightWordsProject.deps.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/publish/SightWordsProject.runtimeconfig.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.deps.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.dev.json
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.dll
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csprojAssemblyReference.cache
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cache
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfoInputs.cache
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfo.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.input.cache
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.output.cache
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorCoreGenerate.cache
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/CreateAccount.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/ForgotPassword.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/Game/Stage1.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentDashboard.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentLogin.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStage1.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStages.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/AddStudents.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/CreateAccount.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ForgotPassword.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ManageAccount.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/Modules.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/StudentStats.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherDashboard.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherLogin.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ViewClass.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cache
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cs
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/r08mbp/Documents/SeniorProjectTeam9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CopyComplete
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/ForgotPassword.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ForgotPassword.g.cshtml.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.dll
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cache
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cs
+/Users/movleafen/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+>>>>>>> 8aad09e9ddeee25fcf4018982384ca08ce51f4f1
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/Game/Stage2.g.cshtml.cs
+/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/Stage1.g.cshtml.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/web 2.config
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/web.config
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/web 2.config
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/web.config
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/web 2.config
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/web.config
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/web.config
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/appsettings.Development.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/appsettings.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/appsettings.Development.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/appsettings.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/appsettings.Development.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/appsettings.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/appsettings.Development.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/appsettings.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/SightWordsProject.deps.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/SightWordsProject.runtimeconfig.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/SightWordsProject.deps.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/SightWordsProject.runtimeconfig.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/SightWordsProject.deps.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/SightWordsProject.runtimeconfig.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/SightWordsProject.deps.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/SightWordsProject.runtimeconfig.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/publish/web 2.config
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/publish/web.config
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/web 3.config
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/publish/appsettings.Development.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/publish/appsettings.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/publish/SightWordsProject.deps.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/publish/publish/publish/SightWordsProject.runtimeconfig.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/publish/publish/SightWordsProject.deps 2.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.deps.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.runtimeconfig.dev.json
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.dll
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/bin/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csprojAssemblyReference.cache
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cache
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorAssemblyInfo.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfoInputs.cache
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.AssemblyInfo.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.input.cache
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.TagHelpers.output.cache
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorCoreGenerate.cache
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/CreateAccount.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/ForgotPassword.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/Game/Stage2.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/Stage1.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentDashboard.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentLogin.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStage1.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Student/StudentStages.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/AddStudents.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/CreateAccount.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ForgotPassword.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ManageAccount.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/Modules.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/StudentStats.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherDashboard.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/TeacherLogin.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/Teacher/ViewClass.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cache
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.RazorTargetAssemblyInfo.cs
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.Views.pdb
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.dll
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.pdb
+/Users/r08mbp/Documents/SeniorProjectTeam09/SightWordsProject/obj/Debug/netcoreapp2.2/SightWordsProject.csproj.CopyComplete

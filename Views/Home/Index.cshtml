@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+<section class="cover1">
+    <div id="landingHeader">
+        <img id="headerLogo" src="../img/rock.png">
+        <span id="headerTitle">Sight Words Rock</span>
+        <a role="button" id="headerRightAlign" asp-area="" asp-controller="Teacher" asp-action="TeacherLogin" class="btn btn-info btn-md">
+            Teachers
+        </a>
+    </div>
+    <div id="landingMain">
+        <h1 class="textShadowTeal" style="color:white;">Hey students, <a style="color:#25a1b7" class="shadowWhite" asp-area="" asp-controller="Student" asp-action="StudentLogin">click me</a> to start!</h1>
+        <br/>
+        <a asp-area="" asp-controller="Student" asp-action="StudentLogin"><img id="landingLogo" src="../img/rockHappy.png"></a>                   
+    </div>
+
+</section>
+

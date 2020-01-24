@@ -1,0 +1,195 @@
+<header>
+  <h1>Matching Game</h1>
+  <nav>
+    <button id="reset-game">Reset Game</button>
+  </nav>
+</header>
+
+<section class="cards"></section>
+
+<style>
+* { box-sizing: border-box }
+
+body {
+  padding: 1em;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+@@media (max-width: 400px) {
+  header {
+    flex-direction: column;
+  }
+}
+
+button {
+  padding: 0.8em;
+
+  background-color: rgb(79, 201, 217);
+  border: none;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+  color: white;
+  outline: none;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+  
+  transition: all 0.4s;
+}
+
+button:hover {
+  background-color: rgb(60, 216, 238);
+}
+
+button:active {
+  background-color: rgb(25, 136, 153);
+  box-shadow: none;
+  
+  transform: translate(1px, 1px);
+}
+
+.cards {
+  margin-top: 1em;
+  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  perspective: 800px;
+}
+
+.card {
+  width: 150px;
+  height: 200px;
+  margin: 10px;
+  position: relative;
+  
+  transition: transform 0.5s;
+}
+
+.card:nth-child(odd) {
+  transform: rotate(3deg);
+}
+
+.card:nth-child(even) {
+  transform: rotate(-3deg);
+}
+
+.card:nth-child(3n) {
+  transform: rotate(1deg);
+}
+
+.card:nth-child(4n) {
+  transform: rotate(1deg);
+}
+
+.card:nth-child(3n+1) {
+  transform: rotate(-1deg);
+}
+
+.card:not(.matched):hover {
+  transform: rotate(0deg) scale(1.02);
+}
+
+.front, .back {
+  width: 100%;
+  height: 100%;
+  
+  position: absolute;
+  top: 0;
+  right: 0;
+  
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.5);
+  
+  perspective: 800px;
+  transition: transform 0.5s;
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+}
+
+.front {
+  font-size: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: rotateY(180deg);
+  background-color: #b8f4fa;
+  background-image: linear-gradient(left top, rgb(187, 241, 246), rgb(181, 247, 255));
+}
+
+.back {
+  background-color: #29d6e8;
+  background-image: url("https://cdn.xl.thumbs.canstockphoto.com/cartoon-rock-with-face-clip-art-vector_csp14882164.jpg");
+}
+
+.flipped .front {
+  transform: rotateY(0deg);
+}
+
+.flipped .back {
+  transform: rotateY(180deg);
+}
+
+.matched {
+  opacity: 0.4;
+}
+
+.matched .front {
+  transform: rotateY(0deg);
+}
+
+.matched .back {
+  transform: rotateY(180deg);
+}
+</style>
+<!-- Import underscore.js --> 
+<script type="text/javascript" src="@Url.Content("https://underscorejs.org/underscore.js")"></script>
+
+<script>
+
+const $cards = $('.cards');
+const cards = ['Hello','💩', '👹', '🙈', '⛄️', '🐰'];
+
+
+function setupGame() {
+  $cards.html('');
+  const doubleCards = cards.concat(cards);
+  
+  _(doubleCards).shuffle().map(createCardElement).forEach(card => card.appendTo($cards));
+}
+
+function createCardElement(value) {
+  return $(`
+    <article class="card ${value}" data-value=${value}>
+      <div class="front">${value}</div>
+      <div class="back"></div>
+    </article>
+  `);
+}
+
+const isFlipped = ($card) => $card.hasClass('flipped');
+const flip = ($card) => $card.toggleClass('flipped');
+const twoCardsAreFlipped = () => $('.flipped').length >= 2;
+const cardsMatch = ([a, b]) => $(a).data('value') === $(b).data('value');
+
+function checkForMatch($cards = $('.flipped')) {
+  if (cardsMatch($cards)) { $cards.addClass('matched'); }
+  setTimeout(() => $cards.removeClass('flipped'), 700);
+}
+
+$cards.on('click', '.card:not(.matched)', function () {
+  const $card = $(this);
+
+  flip($card);
+  
+  if (!isFlipped($card)) { return; }
+  if (twoCardsAreFlipped()) { checkForMatch(); }
+});
+
+$('#reset-game').on('click', setupGame);
+
+setupGame();
+
+
+</script>

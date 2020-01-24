@@ -1,0 +1,97 @@
+/*************** CUSTOM FONTS ***************/
+
+@font-face {
+  font-family: 'Century Gothic Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Century Gothic Regular'), url('fonts/GOTHIC.woff') format('woff');
+}
+  
+  
+@font-face {
+  font-family: 'Century Gothic Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Century Gothic Italic'), url('fonts/GOTHICI.woff') format('woff');
+}
+  
+  
+@font-face {
+  font-family: 'Century Gothic Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Century Gothic Bold'), url('fonts/GOTHICB.woff') format('woff');
+}
+  
+  
+@font-face {
+  font-family: 'Century Gothic Bold Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Century Gothic Bold Italic'), url('fonts/GOTHICBI.woff') format('woff');
+}
+
+/*************** CUSTOM STYLES ***************/
+html {
+ height: 100%;
+ font-family: 'Century Gothic Regular';
+ overflow: hidden;
+}
+
+body {
+height:100%;
+overflow: auto;
+font-family: 'Century Gothic Regular';
+}
+
+main {
+  height: 100%;
+}
+
+#cover {
+  background: #222;
+  background-size: cover;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+#loginStyle {
+  background: #222;
+  text-align: center;
+  display: flex;
+  padding-top: 3%;
+}
+
+#header {
+  background: #222;
+  padding: 1% 0 0 1%;
+}
+
+#cover h1#title {
+  font-size: 38px;
+}
+
+#cover-caption {
+  width: 100%;
+}
+
+.form-container {
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px #000;
+}
+
+.modules_row {
+  margin-bottom: 10px;
+}
+
+div.card {
+  margin-bottom: 10px;
+}
+
+.fullHeight {
+  height: 100%;
+}

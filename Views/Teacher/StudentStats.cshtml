@@ -1,0 +1,65 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<section class="cover2HeightAuto">
+  <div id="landingHeader">
+    <img id="headerLogo" src="../../img/rockPencil.png">
+    <span id="headerTitle">Sight Words Rock</span>
+    <span>
+    <form id="headerRightAlign" style="display: inline-block" method="post" asp-action="logout" asp-controller="Teacher">
+        <span>
+          <button type="submit" class="btn btn-info btn-md">Sign Out</button>
+        </span>
+    </form>
+    </span>
+  </div>  
+  <div id="headerTitle" class="text-center">
+    <h1>Student Progress</h1>
+  </div>   
+  <div class="container">
+    <h2>Module 1</h2>
+    <br>
+    <h3>Stage 1</h3>
+    <div class="progress" style="border-style: solid; border-color:#454d55;">
+      <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" style="width: 15%" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100"></div>
+      <div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" style="width: 30%" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
+      <div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+    </div>
+    <br>
+    <table class="table">
+      <thead class="thead-dark">
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Student</th>
+          <th scope="col">Completed</th>
+          <th scope="col">Scores</th>
+          <th scope="col">Time Spent</th>
+        </tr>
+      </thead>
+      <tbody>
+        @for(int i = 0; i < 4; i++) {
+          <tr style="background: white;">
+          <th scope="row">@(i + 1)</th>
+            <td>id</td>
+            <td>
+              @if((100 - i * 9) > 85) {
+                <i class="fas fa-circle" style="color:green"></i>
+              } else if((100 - i * 9) <= 85 && (100 - i * 9) > 75) {
+                <i class="fas fa-circle" style="color:orange"></i>
+              } else if((100 - i * 9) <= 75) {
+                <i class="fas fa-circle" style="color:red"></i>
+              }
+              @(100 - i * 7)
+            </td>
+            <td>20/20</td>
+            <td>2 hours 5 mins</td>
+          </tr>
+        }
+      </tbody>
+    </table>
+    <br>
+    <a asp-area="" asp-controller="Teacher" asp-action="TeacherDashboard" class="btn btn-info btn-lg">Go back</a>
+  </div>
+
+</section>

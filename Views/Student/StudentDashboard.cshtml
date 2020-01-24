@@ -1,0 +1,194 @@
+@model StudentDashboard
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="cover1HeightAuto">
+  <div id="landingHeader">
+    <img id="headerLogo" src="../img/rock.png">
+    <span id="headerTitle">Sight Words Rock</span>
+    <span>
+    <form id="headerRightAlign" style="display: inline-block" method="post" asp-action="logout" asp-controller="Student">
+        <span>
+          <button type="submit" class="btn btn-info btn-md">Sign Out</button>
+        </span>
+    </form>
+    </span>
+  </div>
+  <div id="headerTitle" class="text-center">
+    <h1>Student Dashboard</h1>
+    <h2>Select a Module!</h2>
+  </div>
+  <!-- <div id="inProgress" class="modules_row">
+    <h3>Continue Working on Module in Progress</h3> -->
+
+    <!-- <div class="row"> -->
+      <!--loop to print all modules that are flagged as in progress, started, unfinished, whatever (if any)-->
+      <!-- @for(var i = 0; i < 2; i++) {
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="https://via.placeholder.com/150x100" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Module @(i+1)</h5>
+              <p class="card-text">Last played: 2 days ago</p>
+              <p class="card-text">Stages completed: 2/5</p>
+              <a href="#" class="btn btn-primary">Play Module</a>
+            </div>
+          </div>
+        </div>
+      }
+    </div>
+  </div> -->
+
+  <div id="newStage" class="modules_row">
+    <!-- <h3>Start a New Module</h3> -->
+
+    <div class="row">
+      <!--loop to print all modules that we have implemented-->
+      @for(var i = 1; i < (@Model.Modules + 1); i++) {
+        <div class="col-sm-6 col-md-4">
+          <div style="background: rgba(255,255,255, .1); box-shadow: 0px 16px 40px rgba(0,0,0,0.23); padding: 20px 20px 20px 20px; margin: 20px auto; max-width: 350px;" class="card">
+            <!-- used to generate the card image of the game to its corresponding module -->
+            @if(i >= 1 && i < 4) {
+              <img class="card-img-top" src="/img/morning.png" alt="Card image cap">
+            } else if (i >= 4 && i < 7) {
+              <img class="card-img-top" src="/img/evening.png" alt="Card image cap">
+            } else {
+              <img class="card-img-top" src="/img/night.png" alt="Card image cap">
+            }
+            <div style="background:white;" class="card-body">
+              <b><h5 class="card-title">Module @(i)</h5></b>
+              <p class="card-text">Listen and match to win!</p>
+              <a asp-area="" asp-controller="Student" asp-action="StudentStages" asp-route-id="@i" class="btn btn-info">Play Module</a>
+            </div>
+          </div>
+        </div>
+      }
+      <!-- <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card">
+          <img class="card-img-top" src="https://via.placeholder.com/150x100" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Module 1</h5>
+            <p class="card-text">Corresponding module description. </p>
+            <a asp-area="" asp-controller="Student" asp-action="Stages" asp-route-id="1" class="btn btn-primary">Play Module</a>
+          </div> 
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card">
+          <img class="card-img-top" src="https://via.placeholder.com/150x100" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Module 2</h5>
+            <p class="card-text">Corresponding module description. </p>
+            <a asp-area="" asp-controller="Student" asp-action="Stages" asp-route-id="2" class="btn btn-primary">Play Module</a>
+          </div>   
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card">
+          <img class="card-img-top" src="https://via.placeholder.com/150x100" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Module 3</h5>
+            <p class="card-text">Corresponding module description. </p>
+            <a asp-area="" asp-controller="Student" asp-action="Stages" asp-route-id="3" class="btn btn-primary">Play Module</a>
+          </div>   
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card">
+          <img class="card-img-top" src="https://via.placeholder.com/150x100" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Module 4</h5>
+            <p class="card-text">Corresponding module description. </p>
+            <a asp-area="" asp-controller="Student" asp-action="Stages" asp-route-id="4" class="btn btn-primary">Play Module</a>
+          </div>   
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card">
+          <img class="card-img-top" src="https://via.placeholder.com/150x100" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Module 5</h5>
+            <p class="card-text">Corresponding module description. </p>
+            <a asp-area="" asp-controller="Student" asp-action="Stages" asp-route-id="5" class="btn btn-primary">Play Module</a>
+          </div>   
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card">
+          <img class="card-img-top" src="https://via.placeholder.com/150x100" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Module 6</h5>
+            <p class="card-text">Corresponding module description. </p>
+            <a asp-area="" asp-controller="Student" asp-action="Stages" asp-route-id="6" class="btn btn-primary">Play Module</a>
+          </div>   
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card">
+          <img class="card-img-top" src="https://via.placeholder.com/150x100" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Module 7</h5>
+            <p class="card-text">Corresponding module description. </p>
+            <a asp-area="" asp-controller="Student" asp-action="Stages" asp-route-id="7" class="btn btn-primary">Play Module</a>
+          </div>   
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card">
+          <img class="card-img-top" src="https://via.placeholder.com/150x100" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Module 8</h5>
+            <p class="card-text">Corresponding module description. </p>
+            <a asp-area="" asp-controller="Student" asp-action="Stages" asp-route-id="8" class="btn btn-primary">Play Module</a>
+          </div>   
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card">
+          <img class="card-img-top" src="https://via.placeholder.com/150x100" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Module 9</h5>
+            <p class="card-text">Corresponding module description. </p>
+            <a asp-area="" asp-controller="Student" asp-action="Stages" asp-route-id="9" class="btn btn-primary">Play Module</a>
+          </div>   
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card">
+          <img class="card-img-top" src="https://via.placeholder.com/150x100" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Module 10</h5>
+            <p class="card-text">Corresponding module description. </p>
+            <a asp-area="" asp-controller="Student" asp-action="Stages" asp-route-id="10" class="btn btn-primary">Play Module</a>
+          </div>   
+        </div>
+      </div> -->
+    </div>
+
+  </div>
+
+  <!-- <div id="completeStage" class="modules_row">
+    <h3>Modules Completed</h3>
+
+    <div class="row"> -->
+      <!--loop to print all completed modules (if any)-->
+      <!-- @for(var i = 0; i < 2; i++) {
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="https://via.placeholder.com/150x100" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Module @(i+1)</h5>
+              <p class="card-text">Completed: Oct 20, 20</p>
+              <p class="card-text">Stages completed: 5/5</p>
+              <p class="card-text">Total score: 20/20</p>
+              <a href="#" class="btn btn-primary">Play Module</a>
+            </div>
+          </div>
+        </div>
+      }
+    </div>
+  </div> -->
+
+</div>

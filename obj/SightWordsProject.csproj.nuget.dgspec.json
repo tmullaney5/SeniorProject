@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/SightWordsProject.csproj": {}
+  },
+  "projects": {
+    "/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/SightWordsProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/SightWordsProject.csproj",
+        "projectName": "SightWordsProject",
+        "projectPath": "/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/SightWordsProject.csproj",
+        "packagesPath": "/Users/trevormullaney/.nuget/packages/",
+        "outputPath": "/Users/trevormullaney/Documents/CS472/repo/seniorprojectfall2019team9/SightWordsProject/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/trevormullaney/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.CognitiveServices.Speech": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NETCore.MailKit": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

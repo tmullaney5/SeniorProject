@@ -1,0 +1,90 @@
+@model CreateAccountVM
+
+<section class="cover2HeightAuto">
+  <div id="landingHeader">
+    <img id="headerLogo" src="../img/rock.png">
+    <span id="headerTitle">Sight Words Rock</span>
+    <a role="button" id="headerRightAlign" asp-area="" asp-controller="Teacher" asp-action="TeacherLogin" class="btn btn-info btn-md">
+      Teacher Login
+    </a>
+  </div>
+  <div id="cover-caption">
+    <div id="container" class="container">
+      <div style="background: rgba(255,255,255, .1); box-shadow: 0px 16px 40px rgba(0,0,0,0.23); padding: 20px 20px; margin: 7vh auto; max-width: 450px" class="col-md-6 offset-md-3 text-center">
+        <span class="teal shadowWhite">
+          <h3>Sight Words Learning Center</h1>
+          <h3>Create an Account</h3>
+        </span>
+        <br/>
+        
+        <div class="col-md-12">
+          <form method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+              <div style="text-align:left;">
+                <div class="form-group row">
+                  <label style="text-align:right;" class="col-sm-4 col-form-label form-control-label">First Name</label>
+                  <div class="col-sm-8">
+                    <input asp-for="FirstName" class="form-control form-control-lg" placeholder="First name">
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label style="text-align:right;" class="col-sm-4 col-form-label form-control-label">Last Name</label>
+                  <div class="col-sm-8">
+                    <input asp-for="LastName" class="form-control form-control-lg" placeholder="Last name">
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label style="text-align:right;" class="col-sm-4 col-form-label form-control-label">School Name</label>
+                  <div class="col-sm-8">
+                    <input asp-for="School" class="form-control form-control-lg" placeholder="School">
+                    <!-- <span asp-validation-for="FirstName" class="text-danger"></span> -->
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label style="text-align:right;" class="col-sm-4 col-form-label form-control-label">Grade Level</label>
+                  <div class="col-sm-8">
+                    <select asp-for="GradeLevel" class="form-control form-control-lg">
+                      <option disabled selected="selected">Select Grade</option>
+                      <option value=1>First Grade</option>
+                      <option value=2>Second Grade</option>
+                      <option value=3>Third Grade</option>
+                      <option value=4>Fourth Grade</option>
+                      <option value=5>Fifth Grade</option>
+                    </select>
+                    <span asp-validation-for="GradeLevel" class="text-danger"></span>
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label style="text-align:right;" class="col-sm-4 col-form-label form-control-label">Email Address</label>
+                  <div class="col-sm-8">
+                    <input asp-for="Email" class="form-control form-control-lg" placeholder="Email">
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label style="text-align:right;" class="col-sm-4 col-form-label form-control-label">Password</label>
+                  <div class="col-sm-8">
+                    <input asp-for="Password" class="form-control form-control-lg" placeholder="Password">
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label style="text-align:right;" class="col-sm-4 col-form-label form-control-label">Confirm Password</label>
+                  <div class="col-sm-8">
+                    <input asp-for="ConfirmPassword" class="form-control form-control-lg" placeholder="Confirm Password">
+                    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                    </div>
+                </div>
+              </div>
+              <a asp-controller="" asp-action="">
+                <button style="text-align: center;" type="submit" class="btn btn-info btn-lg">Register</button>
+              </a>
+          </form>
+        </div>
+      </div>
+    </div>
+    <br/>
+  </div>
+</section>
